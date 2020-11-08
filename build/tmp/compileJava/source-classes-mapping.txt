@@ -1,0 +1,3 @@
+cl/ucn/disc/soduku/Main.java
+ cl.ucn.disc.soduku.Main
+ cl.ucn.disc.soduku.Main$Sudoku
