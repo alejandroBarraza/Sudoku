@@ -11,3 +11,7 @@ costo iterrar sobre las filas y columnas para cada instacia en vez de generar un
 
 
 ![speedup](https://user-images.githubusercontent.com/71998273/98455632-10ee0000-2152-11eb-84c8-f04547ed94fa.PNG)
+
+# links a los graficos.
+
+https://drive.google.com/file/d/1FRCRcfJ4TE2wZl7bLyh9IV4R3zVOBG_N/view?usp=sharing
